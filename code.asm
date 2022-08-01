@@ -5,6 +5,6 @@ titleInit equ 0x1037cc
 museumInit equ 0x19727c
 
 .org titleInit
-	; SHOULD redirect titleinit pointer to museuminit
+	;Redirects titleinit to museuminit
 	b museumInit
 .close
