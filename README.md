@@ -1,5 +1,6 @@
 # Quicklaunch Patch
 Code patch for Rhythm Heaven Megamix (US) that loads the Museum immediately on startup.
+
 NOTE: The game defaults to the first save file.
 ## Building
 1. Rename the original code.bin to original.bin.
