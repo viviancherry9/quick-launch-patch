@@ -1,5 +1,5 @@
 # Quicklaunch Patch
-Code patch for Rhythm Heaven Megamix that loads the Museum immediately on startup.
+Code patch for Rhythm Heaven Megamix (US) that loads the Museum immediately on startup.
 ## Building
 1. Rename the original code.bin to original.bin.
 2. Run [armips](https://github.com/Kingcom/armips) on the patch.
