@@ -1,6 +1,6 @@
 armips.exe
-code.bin
-code.ips
-original.bin
+
+*.bin
+*.ips
+
 patch.asm
-originalpatched.bin

@@ -2,9 +2,9 @@
 .open "original.bin", "code.bin", 0x100000
 
 titleInit equ 0x1037cc
-museumInit equ 0x19727c
+mapInit equ 0x1f2388
 
 .org titleInit
-	;Redirects titleinit to museuminit
-	b museumInit
+	b mapInit
+
 .close
